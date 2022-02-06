@@ -21,11 +21,11 @@ Remember, have fun with these chess puzzles...
 
 Links:
 
-Chess Puzzle Site: https://eggofglory999.github.io/freedailychesspuzzles/daily_puzzle.html
+Chess Puzzle Site: https://eggofglory999.github.io/Free_Daily_Chess_Puzzles/daily_puzzle.html
 
 Chess Puzzle Archive: Coming soon...
 
-F.D.C.P wiki: https://github.com/EggOfGlory999/freedailychesspuzzles.wiki.git
+F.D.C.P wiki: https://github.com/EggOfGlory999/Free_Daily_Chess_Puzzles.wiki.git
 
 Subscribe: https://www.youtube.com/c/eggofglory999
 
