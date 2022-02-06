@@ -15,7 +15,9 @@ You may NOT reupload any files, leak any solutions to puzzles, or dump any files
 
 If you want, you may star this project, and watch this project for updates!
 
-Remember, have fun with these chess puzzles......and keep on having fun with chess puzzles! :)
+Remember, have fun with these chess puzzles...
+
+...and keep on having solving chess puzzles! :)
 
 Links:
 
