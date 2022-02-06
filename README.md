@@ -1,10 +1,16 @@
 # Free Daily Chess Puzzles
 Welcome to Free Daily Chess Puzzles!
+
 No accounts are needed to do these daily puzzles!
-This is where you can see the magic behind this whole project.
+
+This is the home page of this site.
+
 Every day, a new generated daily chess puzzle will be featured on the face of the site.
+
 Any chess puzzle off the face of the site will be archived in a separate page.
+
 You can request for me to recreate an idea for a chess puzzle, so long as the solution is given. 
+
 Email me your chess puzzle ideas at jackson.newman999@gmail.com.
 
 This is version 1.0.2!
@@ -21,12 +27,18 @@ Remember, have fun with these chess puzzles...
 
 Links:
 
-Chess Puzzle Site: https://eggofglory999.github.io/Free_Daily_Chess_Puzzles/daily_puzzle.html
+Chess Puzzle Site: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/daily_puzzle.html
 
 Chess Puzzle Archive: Coming soon...
 
-F.D.C.P wiki: https://github.com/EggOfGlory999/Free_Daily_Chess_Puzzles.wiki.git
+F.D.C.P wiki: https://github.com/EggOfGlory999/Free-Daily-Chess-Puzzles.wiki.git
 
 Subscribe: https://www.youtube.com/c/eggofglory999
+
+Security Notes: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/SECURITY.md
+
+ReadMe: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/README.md
+
+Files Page: https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles
 
 More content coming soon!
