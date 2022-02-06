@@ -1,0 +1,33 @@
+  h1 {
+    color:white;
+    font-family:verdana;
+    text-align:center;
+  }
+  
+  
+  h2 {
+    color:white;
+    font-family:verdana;
+    text-align:center;
+  }
+  
+  
+  div {
+    background-image: url('chess-34.jpg')
+  }
+  
+  
+  a:link, a:visited {
+    color: white;
+    text-decoration: bold;
+    background-color: green;
+    text-align: center;
+    padding: 14px 25px
+    display: inline block;
+    font-family: verdana;
+  }
+  
+  
+  a:hover, a:active {
+    background-color: powder-blue
+  }
