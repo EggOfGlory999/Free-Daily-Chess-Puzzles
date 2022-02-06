@@ -21,7 +21,7 @@ Remember, have fun with these chess puzzles...
 
 Links:
 
-Chess Puzzle Site: https://eggofglory999.github.io/freedailychesspuzzles/featured_puzzle.html
+Chess Puzzle Site: https://eggofglory999.github.io/freedailychesspuzzles/daily_puzzle.html
 
 Chess Puzzle Archive: Coming soon...
 
