@@ -1,4 +1,4 @@
-# freedailychesspuzzles
+# Free Daily Chess Puzzles
 Welcome to Free Daily Chess Puzzles!
 No accounts are needed to do these daily puzzles!
 This is where you can see the magic behind this whole project.
