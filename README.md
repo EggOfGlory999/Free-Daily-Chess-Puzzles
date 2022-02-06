@@ -25,6 +25,8 @@ Chess Puzzle Site: https://eggofglory999.github.io/freedailychesspuzzles/feature
 
 Chess Puzzle Archive: Coming soon...
 
+F.D.C.P wiki: https://github.com/EggOfGlory999/freedailychesspuzzles.wiki.git
+
 Subscribe: https://www.youtube.com/c/eggofglory999
 
 More content coming soon!
