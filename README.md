@@ -7,7 +7,7 @@ Any chess puzzle off the face of the site will be archived in a separate page.
 You can request for me to recreate an idea for a chess puzzle, so long as the solution is given. 
 Email me your chess puzzle ideas at jackson.newman999@gmail.com.
 
-This is version 1.0.1!
+This is version 1.0.2!
 
 LICENSE:
 You may download files of this site or the entire site.
