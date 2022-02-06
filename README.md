@@ -19,7 +19,9 @@ Remember, have fun with these chess puzzles......and keep on having fun with che
 
 Links:
 Chess Puzzle Site: https://eggofglory999.github.io/freedailychesspuzzles/free_daily_chess_puzzles.html
+
 Chess Puzzle Archive: Coming soon...
+
 Subscribe: https://www.youtube.com/c/eggofglory999
 
 More content coming soon!
