@@ -45,8 +45,8 @@ Bug Report: https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/Issues
 
 Feature Request: https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/Issues
 
-Bug Report Instructions & Expectations: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/bug_report.md
+Bug Report Instructions & Expectations: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/.github/ISSUE_TEMPLATE/bug_report.md
 
-Feature Request Instructions & Expectations: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/feature_request.md
+Feature Request Instructions & Expectations: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/.github/ISSUE_TEMPLATE/feature_request.md
 
 More content coming soon!
