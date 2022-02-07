@@ -13,7 +13,7 @@ You can request for me to recreate an idea for a chess puzzle, so long as the so
 
 Email me your chess puzzle ideas at jackson.newman999@gmail.com.
 
-This is version 1.0.2!
+This is version 1.0.3!
 
 LICENSE:
 You may download files of this site or the entire site.
@@ -40,5 +40,9 @@ Security Notes: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/SECURIT
 ReadMe: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/README.md
 
 Files Page: https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles
+
+Bug Report: https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/Issues
+
+Feature Request: https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/Issues
 
 More content coming soon!
