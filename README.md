@@ -31,6 +31,8 @@ Chess Puzzle Of The Day: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzle
 
 Chess Puzzle Of The Week: https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/weekly_puzzle.html
 
+Chess Puzzle Of The Month: https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/monthly_puzzle.html
+
 Chess Puzzle Archive: https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/puzzle_archive.html
 
 F.D.C.P wiki: https://github.com/EggOfGlory999/Free-Daily-Chess-Puzzles.wiki.git
