@@ -27,7 +27,9 @@ Remember, have fun with these chess puzzles...
 
 Links:
 
-Chess Puzzle Site: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/daily_puzzle.html
+Chess Puzzle Of The Day: https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/daily_puzzle.html
+
+Chess Puzzle Of The Week: https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/weekly_puzzle.html
 
 Chess Puzzle Archive: https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/puzzle_archive.html
 
