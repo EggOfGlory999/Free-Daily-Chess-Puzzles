@@ -4,7 +4,7 @@
   
   <br>
   
-  <a href="https://www.buymeacoffee.com/EggOfGlory999"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me!&emoji=❤️&slug=EggOfGlory999&button_colour=00d0fa&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="EggOfGlory999" data-color="#00bfff" data-emoji="❤️"  data-font="Bree" data-text="Support Me!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
 
 <br>
   
