@@ -1,8 +1,6 @@
 <head>
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  
-  <tile>Free Daily Chess Puzzles</title>
 
 </head>
 
