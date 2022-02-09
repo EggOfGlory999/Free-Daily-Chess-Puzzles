@@ -34,7 +34,17 @@ Remember, have fun with these chess puzzles...
   
   <br>
   
+  <br>
+  
+  <br>
+  
   <img src="wellington_chess_pieces_ebony_1100__73719.1548789893.jpg" alt="Chess-Related Picture">
+  
+  <br>
+  
+  <br>
+  
+  <br>
 
 Links:
   
