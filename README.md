@@ -4,7 +4,19 @@
   
   <a href="https://www.buymeacoffee.com/EggOfGlory999"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me!&emoji=❤️&slug=EggOfGlory999&button_colour=00d0fa&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-# Free Daily Chess Puzzles
+<br>
+  
+<br>
+  
+<br>
+
+<h1>Free Daily Chess Puzzles</h1>
+  
+  <br>
+  
+  <br>
+  
+  <br>
   
 <h2>Welcome to Free Daily Chess Puzzles!</h2>
 
