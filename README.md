@@ -4,7 +4,7 @@
   
   <a href="https://www.buymeacoffee.com/EggOfGlory999"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me!&emoji=❤️&slug=EggOfGlory999&button_colour=00d0fa&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-## Free Daily Chess Puzzles
+# Free Daily Chess Puzzles
   
 <h2>Welcome to Free Daily Chess Puzzles!</h2>
 
@@ -38,33 +38,61 @@ Links:
 
 <a href="https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/daily_puzzle.html">Chess Puzzle Of The Day</a>
   
+  <br>
+  
 <a href="https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/weekly_puzzle.html">Chess Puzzle Of The Week</a>
   
-<a href="https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/monthly_puzzle.html">Chess Puzzle Of The Month</a> 
+  <br>
+  
+<a href="https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/monthly_puzzle.html">Chess Puzzle Of The Month</a>
+  
+  <br>
 
 <a href="https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/puzzle_archive.html">Chess Puzzle Archive</a>
   
+  <br>
+
 <a href="https://github.com/EggOfGlory999/Free-Daily-Chess-Puzzles.wiki.git">F.D.C.P wiki</a>
+  
+  <br>
 
 <a href="https://www.youtube.com/c/eggofglory999">Subscribe</a> 
+  
+  <br>
 
 <a href="https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/SECURITY.md">Security Notes</a>
+  
+  <br>
 
 <a href="https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/README.md">ReadMe</a> 
+  
+  <br>
 
 <a href="https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles">Files Page</a>
+  
+  <br>
 
 <a href="https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/Issues">Bug Report</a> 
+  
+  <br>
 
 <a href="https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/Issues">Feature Request</a>
+  
+  <br>
 
 <a href="https://github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/blob/main/.github/ISSUE_TEMPLATE/bug_report.md">Bug Report Instructions & Expectations</a>
+  
+  <br>
 
 <a href="https://github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/blob/main/.github/ISSUE_TEMPLATE/feature_request.md">Feature Request Instructions & Expectations</a>
+  
+  <br>
   
 <footer>
   
  # Now, enjoy this game...
+  
+  <br>
   
   <iframe id="8918333" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=8918333"></iframe><script>window.addEventListener("message",e=>{e['data']&&"8918333"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
   
