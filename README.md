@@ -32,11 +32,19 @@ Remember, have fun with these chess puzzles...
 
 ...and keep on having solving chess puzzles! :)
   
-  ![wellington_chess_pieces_ebony_1100__73719 1548789893](https://user-images.githubusercontent.com/70840786/153124324-7d530f47-46e9-4f2d-bc21-0620a6d26e9d.jpg)
+  <br>
+  
+  <img src="wellington_chess_pieces_ebony_1100__73719.1548789893.jpg" alt="Chess-Related Picture">
 
 Links:
+  
+  <br>
+  
+  <br>
 
 <a href="https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/daily_puzzle.html">Chess Puzzle Of The Day</a>
+  
+  <br>
   
   <br>
   
@@ -44,43 +52,65 @@ Links:
   
   <br>
   
+  <br>
+  
 <a href="https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/monthly_puzzle.html">Chess Puzzle Of The Month</a>
+  
+  <br>
   
   <br>
 
 <a href="https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/puzzle_archive.html">Chess Puzzle Archive</a>
   
   <br>
+  
+  <br>
 
 <a href="https://github.com/EggOfGlory999/Free-Daily-Chess-Puzzles.wiki.git">F.D.C.P wiki</a>
+  
+  <br>
   
   <br>
 
 <a href="https://www.youtube.com/c/eggofglory999">Subscribe</a> 
   
   <br>
+  
+  <br>
 
 <a href="https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/SECURITY.md">Security Notes</a>
+  
+  <br>
   
   <br>
 
 <a href="https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/README.md">ReadMe</a> 
   
   <br>
+  
+  <br>
 
 <a href="https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles">Files Page</a>
+  
+  <br>
   
   <br>
 
 <a href="https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/Issues">Bug Report</a> 
   
   <br>
+  
+  <br>
 
 <a href="https://www.github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/Issues">Feature Request</a>
   
   <br>
+  
+  <br>
 
 <a href="https://github.com/EggOfGlory999/Free-Daily-Chess-Puzzles/blob/main/.github/ISSUE_TEMPLATE/bug_report.md">Bug Report Instructions & Expectations</a>
+  
+  <br>
   
   <br>
 
@@ -88,9 +118,13 @@ Links:
   
   <br>
   
+  <br>
+  
 <footer>
   
- # Now, enjoy this game...
+  <h1>Now, enjoy this game...</h1>
+  
+  <br>
   
   <br>
   
