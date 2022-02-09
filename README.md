@@ -27,28 +27,50 @@
   <br>
   
 <h2>Welcome to Free Daily Chess Puzzles!</h2>
+  
+  <br>
 
 No accounts are needed to do these daily puzzles!
+  
+  <br>
 
 This is the home page of this site.
+  
+  <br>
 
 Every day, a new generated daily chess puzzle will be featured on the face of the site.
+  
+  <br>
 
 Any chess puzzle off the face of the site will be archived in a separate page.
+  
+  <br>
 
 You can request for me to recreate an idea for a chess puzzle, so long as the solution is given. 
+  
+  <br>
 
-Email me your chess puzzle ideas at jackson.newman999@gmail.com.
+  Email me your chess puzzle ideas <a href="mailto:jackson.newman999@gmail.com.">here!</a>
+  
+  <br>
 
 This is version 1.1.0!
+  
+  <br>
 
 LICENSE:
 You may download files of this site or the entire site.
 You may NOT reupload any files, leak any solutions to puzzles, or dump any files without permission.
+  
+  <br>
 
 If you want, you may star this project, and watch this project for updates!
+  
+  <br>
 
 Remember, have fun with these chess puzzles...
+  
+  <br>
 
 ...and keep on having solving chess puzzles! :)
   
