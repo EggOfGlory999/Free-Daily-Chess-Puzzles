@@ -100,68 +100,134 @@ And that was it for issues!
 It is now time to talk about pull requests.
 
 <h2>Pull Requests</h2>
+  
+  <br>
 
 Pull requests most commonly come when you create a new branch, although you can create them yourself.
+  
+  <br>
 
 Pull requests are requests for merging 2 branches together. Once a branch has been merged, it can be deleted.
+  
+  <br>
+  
+  Now it is time to know how to make a pull request.
 
 <h3>How to create your own pull requests</h3>
+  
+  <br>
 
 <h4>Note that you can only do this if there are at least 2 branches, and the 'non-master' branch is at least one commitment behind the master branch.</h4>
+  
+  <br>
 
 Step 1: Click on 'Pull Requests'
+  
+  <br>
 
 Step 2: Click on 'New Pull Request'
+  
+  <br>
 
-Step 3: Change the base and 'compare' around until you can successfully make a pull request.
+Step 3: Answer the questions.
+  
+  <br>
 
 Step 4: Create the pull request.
+  
+  <br>
 
 Step 5: Wait for a collaborator or the owner to merge the 2 branches together.
+  
+  <br>
 
 Now a pull request has been closed!
+  
+  <br>
 
 <h2>Pull Requests [CONTINUED]</h2>
+  
+  <br>
 
 The pull request may never be a fake pull request.
+  
+  <br>
 
 If the pull request is just to delete a branch, then you must specify that you want a pull request only to delete a branch and/or fork.
+  
+  <br>
 
 Well, that was a lot of explaining about pull requests.
 It is now time to finally talk about discussions.
+  
+  <br>
 
 <h2>Discussions</h2>
+  
+  <br>
 
 Discussions can be used for a Q&A, announcements, or really, just for socializing!
+  
+  <br>
 
 Discussions can be closed, or opened. You can also give out ideas, do a show and tell, and more.
+  
+  <br>
+  
+  It is now time to know how to start a discussion.
+  
+  <br>
 
 <h3>How to make a discussion</h3>
+  
+  <br>
 
 Step 1: Click on 'discussions'
+  
+  <br>
 
 Step 2: Click on 'New Discussion'
+  
+  <br>
 
 Step 3: Select a category
+  
+  <br>
 
 Step 4: Add a title and a description.
+  
+  <br>
 
 Step 5: Create the discussion.
+  
+  <br>
 
 <h2>Discussions [CONTINUED]</h2>
+  
+  <br>
 
 Please be kind when using the discussions, and commenting.
+  
+  <br>
 
 When puting in images, please do not put in sexual images.
+  
+  <br>
 
 Please do not use discussions for dating. Online Dating can and will result in a temporary ban. 3 violations and that is a permanent ban.
+  
+  <br>
 
 Discussions may be used for advertising, but please do not spam advertisements.
 
 <br>
 
 Well, there are so many ways to contribute, and socialize!
+  
+  <br>
 
 I hope you can have a great time in here!
+  
+  <br>
 
 Remember, keep on solving chess puzzles, and have a great day!
