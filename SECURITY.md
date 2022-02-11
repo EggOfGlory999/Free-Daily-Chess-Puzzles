@@ -24,10 +24,52 @@ Security Update Compatibilities are below.
 <h2>Reporting a Vulnerability</h2>
 
 If by any chance, you see a vulnerability...
+
 <br>
+
 ...email me <a href="mailto:jackson.newman999@gmail.com">here...</a>
+
 <br>
+
 ...and the problem will be founded and resolved!
+
+<h2>Instructions</h2>
+
+If you find a security vulnerability...
+
+<br>
+
+Step 1: Find the vulnerability.
+
+<br>
+
+Step 2: Take screenshots and/or record a video of the vulnerability.
+
+<br>
+
+Step 3: Email the issue <a href="mailto:jackson.newman999@gmail.com">here.</a>
+
+<br>
+
+Step 4: Give details of the vulnerability.
+
+<br>
+
+Step 5: Send the screenshots and/or video for proof so I can validate the vulnerability.
+
+<br>
+
+Step 6: Wait for an email saying that it either is proven to be real, or that it is not real.
+
+<br>
+
+If the vulnerability gets detected, and is proven real, then the vlnerability should be covered.
+
+<br>
+
+If I say otherwise, then you will get a correction.
+
+<br>
 
 <h2>Vulnerbility Reporting Expectations</h2>
 
