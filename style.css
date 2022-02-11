@@ -12,6 +12,13 @@
     background-color:black;
   }
   
+
+  h3 {
+    color:white;
+    font-family:verdana;
+    text-align:center;
+    background-color:black;
+  }
   
   div {
     background-image: url('chess-34.jpg')
