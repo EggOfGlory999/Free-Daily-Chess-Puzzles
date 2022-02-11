@@ -78,6 +78,10 @@ Remember, have fun with these chess puzzles...
 
 Links:
   
+  <br>
+  
+  <br>
+  
   <a href="https://EggOfGlory999.github.io/Free-Daily-Chess-Puzzles/LICENSE">License</a>
   
   <br>
