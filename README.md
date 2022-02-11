@@ -48,13 +48,7 @@ You can request for me to recreate an idea for a chess puzzle, so long as the so
   
   <br>
 
-This is version 1.1.0!
-  
-  <br>
-
-LICENSE:
-You may download files of this site or the entire site.
-You may NOT reupload any files, leak any solutions to puzzles, or dump any files without permission.
+This is version 1.1.1!
   
   <br>
 
