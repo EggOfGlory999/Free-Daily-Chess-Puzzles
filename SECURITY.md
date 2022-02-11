@@ -1,9 +1,12 @@
-# Security Policy
+<div align="center">
+  
+<a href="https://www.buymeacoffee.com/EggOfGlory999"><img src="button_support-me.png" /></a>
 
-## Supported Versions
+<h1>Security Policy</h1>
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+<h2>Supported Versions</h2>
+
+Security Update Compatibilities are below.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -12,10 +15,22 @@ currently being supported with security updates.
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :white_check_mark: |
 
-## Reporting a Vulnerability
+<h2>Reporting a Vulnerability</h2>
 
-Use this section to tell people how to report a vulnerability.
+If by any chance, you see a vulnerability...
+<br>
+...email me <a href="mailto:jackson.newman999@gmail.com">here...</a>
+<br>
+...and the problem will be founded and resolved!
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+<h2>Vulnerbility Reporting Expectations</h2>
+
+To make sure you are NOT lying to me, you must send a video...
+<br>
+...or screenshots.
+<br>
+The code will be searched across, and if it is to not be seen anywhere...
+<br>
+...then I know it is fake, but if it is to be founded...
+<br>
+...then I know it is real, and the vulnerability will be covered!
