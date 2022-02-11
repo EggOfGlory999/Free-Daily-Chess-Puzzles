@@ -1,4 +1,4 @@
-<div align="center" font-family="verdana">
+<div align="center">
   
   <br>
   
