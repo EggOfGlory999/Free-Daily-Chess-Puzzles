@@ -84,13 +84,13 @@ Links:
   
   <br>
   
-  <a href="https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/CODE_OF_CONDUCT.md">Code Of Conduct</a>
-  
-  <br>
-  
-  <br>
-  
   <a href="https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/CONTRIBUTING.md">Contributing</a>
+  
+  <br>
+  
+  <br>
+  
+  <a href="https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/CODE_OF_CONDUCT.md">Code Of Conduct</a>
   
   <br>
   
