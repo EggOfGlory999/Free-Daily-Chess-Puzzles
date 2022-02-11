@@ -1,6 +1,12 @@
 <div align="center">
 
 <a href="https://www.buymeacoffee.com/EggOfGlory999"><img src="button_support-me.png" /></a>
+  
+  <br>
+  
+  <br>
+  
+  <br>
 
 <h1>Contributor Covenant Code of Conduct</h1>
 
