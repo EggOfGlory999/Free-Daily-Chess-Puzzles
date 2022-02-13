@@ -74,12 +74,6 @@ You may not send false issues; that is called lying, and could get you a warning
 
 <br>
 
-You may also not copy any issue and sell it as your own; that is plagarism, and could get you temporarily banned. 
-
-(Learn more abour plagarism <a href="https://en.wikipedia.org/wiki/Plagiarism">here.</a>)
-
-<br>
-
 You also may not send an issue without screenshots and/or a video, because that could result in lying.
 If you are telling the truth, but do not send screenshots and/or a video, you will only be corrected.
 If you are lying, and forget to send screenshots and/or a video, that is an immediate temporary ban.
