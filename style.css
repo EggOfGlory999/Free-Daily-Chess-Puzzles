@@ -20,12 +20,8 @@
     background-color:black;
   }
   
-  body {
-    background-image: url(chess-34.jpg);
-  }
   
-  
-  a:link, a:visited {
+  a:link a:visited {
     color:white;
     text-decoration:bold;
     background-color:green;
@@ -36,8 +32,8 @@
   }
   
   
-  a:hover, a:active {
-    background-color: powder-blue
+  a:hover a:active {
+    background-color:powder-blue;
   }
 
 
