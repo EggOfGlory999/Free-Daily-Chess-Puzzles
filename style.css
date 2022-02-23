@@ -1,4 +1,10 @@
-  h1 {
+body {
+  background-image: url("chess-34.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
     color:white;
     font-family:verdana;
     text-align:center;
