@@ -26,12 +26,12 @@
   
   
   a:link, a:visited {
-    color: white;
-    text-decoration: bold;
-    background-color: green;
-    text-align: center;
-    padding: 14px 25px
-    display: inline block;
+    color:white;
+    text-decoration:bold;
+    background-color:green;
+    text-align:center;
+    padding:14px 25px;
+    display:inline block;
     font-family: verdana;
   }
   
@@ -74,9 +74,4 @@
     float: none;
     display: block;
   }
-}
-
-
-body {
-  background-color:#121212;
 }
