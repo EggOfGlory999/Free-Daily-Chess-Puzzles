@@ -3,6 +3,11 @@ body {
   background-attachment:fixed;
 }
 
+
+b {
+  font-family:verdana;
+  text-align:center;
+
 div {
   text-align: center;
 }
