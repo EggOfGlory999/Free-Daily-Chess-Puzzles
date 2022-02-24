@@ -4,39 +4,39 @@ body {
 }
 
 h1 {
-    color:white;
+    color:black;
     font-family:verdana;
     text-align:center;
   }
   
   
   h2 {
-    color:white;
+    color:black;
     font-family:verdana;
     text-align:center;
   }
   
 
   h3 {
-    color:white;
+    color:black;
     font-family:verdana;
     text-align:center;
   }
   
   
   a:link a:visited {
-    color:white;
-    text-decoration:bold;
-    background-color:green;
-    text-align:center;
-    padding:14px 25px;
-    display:inline block;
+    color: white;
+    text-decoration: bold;
+    background-color: green;
+    text-align: center;
+    padding: 14px 25px;
+    display: inline block;
     font-family: verdana;
   }
   
   
   a:hover a:active {
-    background-color:powder-blue;
+    background-color: powder-blue;
   }
 
 
