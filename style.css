@@ -1,6 +1,7 @@
 body {
   background-image:url("https://eggofglory999.github.io/Free-Daily-Chess-Puzzles/fdcp-bg.jpg");
   background-attachment:fixed;
+  background-size:contain;
 }
 
 h1 {
