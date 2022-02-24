@@ -1,0 +1,26 @@
+{
+  "short_name": "FDCP App",
+  "name": "Free Daily Chess Puzzles App",
+  "icons": [
+    {
+      "src": "Drawing.sketchpad (3).png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "Drawing.sketchpad (4).png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Drawing.sketchpad (5).png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "daily_puzzle.html",
+  "background_color": "#121212",
+  "display": "standalone",
+  "scope": "/app/",
+  "theme_color": "#1f2021"
+}
