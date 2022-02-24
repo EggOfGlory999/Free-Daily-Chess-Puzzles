@@ -3,17 +3,17 @@
   "name": "Free Daily Chess Puzzles App",
   "icons": [
     {
-      "src": "Drawing.sketchpad (3).png",
+      "src": "128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "Drawing.sketchpad (4).png",
+      "src": "192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Drawing.sketchpad (5).png",
+      "src": "512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
