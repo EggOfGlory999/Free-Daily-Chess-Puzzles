@@ -15,6 +15,7 @@
 # documentation for the Fortify actions used, and the Fortify on Demand / ScanCentral Client product documentation. If you need additional     #
 # assistance with configuration, feel free to create a help ticket in the Fortify on Demand portal.                                            #
 ################################################################################################################################################
+
 name: Fortify on Demand Scan
 
 # TODO: Customize trigger events based on your DevSecOps processes and typical FoD SAST scan time
