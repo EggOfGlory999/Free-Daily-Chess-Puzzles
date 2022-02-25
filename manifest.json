@@ -1,77 +1,26 @@
 {
-  "background_color": "#454545",
-  "description": "Welcome to Free Daily Chess Puzzles!",
-  "dir": "ltr",
-  "display": "fullscreen",
-  "name": "FDCP App",
-  "orientation": "any",
-  "scope": "/app/",
-  "short_name": "FDCP",
-  "start_url": "https://eggofglory999.github.io/Free-Daily-Chess-Puzzles",
-  "theme_color": "#424242",
-  "categories": ["chess", "puzzles"],
-  "screenshots": [
+  "short_name": "FDCP App",
+  "name": "Free Daily Chess Puzzles App",
+  "icons": [
     {
-      "src": "/images/screenshot-1.png",
-      "sizes": "1280x800",
-      "type": "image/png"
+      "src": "128.png",
+      "type": "image/png",
+      "sizes": "128x128"
     },
     {
-      "src": "/images/screenshot-2.png",
-      "sizes": "750x1334",
-      "type": "image/png"
+      "src": "192.png",
+      "type": "image/png",
+      "sizes": "192x192"
     },
     {
-      "src": "/images/screenshot-3.png",
-      "sizes": "1280x800",
-      "type": "image/png"
-    },
-    {
-      "src": "/images/screenshot-4.png",
-      "sizes": "750x1334",
-      "type": "image/png"
-    },
-    {
-      "src": "/images/screenshot-5.png",
-      "sizes": "1280x800",
-      "type": "image/png"
-    },
-    {
-      "src": "/images/screenshot-6.png",
-      "sizes": "750x1334",
-      "type": "image/png"
-    },
-    {
-      "src": "/images/screenshot-7.png",
-      "sizes": "1280x800",
-      "type": "image/png"
-    },
-    {
-      "src": "/images/screenshot-8.png",
-      "sizes": "750x1334",
-      "type": "image/png"
+      "src": "512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
-  "shortcuts": [
-    {
-      "name": "Solve today's chess puzzle!",
-      "url": "daily_puzzle.html",
-      "description": "Today's Chess puzzle"
-    },
-    {
-      "name": "Solve this week's chess puzzle!",
-      "url": "weekly_puzzle.html",
-      "description": "This week's Chess puzzle"
-    },
-    {
-      "name": "Solve this month's chess puzzle!",
-      "url": "monthly_puzzle.html"
-      "description": "This month' chess puzzle"
-    },
-    {
-      "name": "See the archived puzzles!",
-      "url": "puzzle_achive.html",
-      "description": "The rest of the puzzles"
-    }
-  ]
+  "start_url": "daily_puzzle.html",
+  "background_color": "#121212",
+  "display": "standalone",
+  "scope": "/app/",
+  "theme_color": "#1f2021"
 }
