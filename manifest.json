@@ -3,11 +3,11 @@
   "description": "Welcome to Free Daily Chess Puzzles!",
   "dir": "ltr",
   "display": "fullscreen",
-  "name": "Free-Daily-Chess-Puzzles",
+  "name": "FDCP App",
   "orientation": "any",
   "scope": "/app/",
   "short_name": "FDCP",
-  "start_url": "/daily_puzzles.html",
+  "start_url": "https://eggofglory999.github.io/Free-Daily-Chess-Puzzles",
   "theme_color": "#424242",
   "categories": ["chess", "puzzles"],
   "screenshots": [
