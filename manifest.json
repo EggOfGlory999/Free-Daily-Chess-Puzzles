@@ -2,7 +2,7 @@
   "background_color": "#454545",
   "description": "Welcome to Free Daily Chess Puzzles!",
   "dir": "ltr",
-  "display": "standalone",
+  "display": "fullscreen",
   "name": "Free-Daily-Chess-Puzzles",
   "orientation": "any",
   "scope": "/app/",
