@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "daily_puzzle.html",
+  "start_url": "https://eggofglory999.github.io/Free-Daily-Chess-Puzzles",
   "background_color": "#121212",
   "display": "standalone",
   "scope": "/app/",
