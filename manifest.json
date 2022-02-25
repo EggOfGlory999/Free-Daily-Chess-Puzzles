@@ -1,26 +1,15 @@
 {
-  "short_name": "FDCP App",
-  "name": "Free Daily Chess Puzzles App",
-  "icons": [
-    {
-      "src": "128.png",
-      "type": "image/png",
-      "sizes": "128x128"
-    },
-    {
-      "src": "192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": "https://eggofglory999.github.io/Free-Daily-Chess-Puzzles",
-  "background_color": "#121212",
+  "background_color": "#3b3b3b",
+  "description": "Welcome to Free Daily Chess Puzzles!",
+  "dir": "ltr",
   "display": "standalone",
+  "name": "Free-Daily-Chess-Puzzles",
+  "orientation": "any",
   "scope": "/app/",
-  "theme_color": "#1f2021"
+  "short_name": "FDCP",
+  "start_url": "/daily_puzzle.html",
+  "theme_color": "#151515",
+  "categories": [],
+  "screenshots": [],
+  "shortcuts": []
 }
