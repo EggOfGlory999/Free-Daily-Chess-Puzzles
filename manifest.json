@@ -1,5 +1,5 @@
 {
-  "background_color": "#3b3b3b",
+  "background_color": "#454545",
   "description": "Welcome to Free Daily Chess Puzzles!",
   "dir": "ltr",
   "display": "standalone",
@@ -7,9 +7,50 @@
   "orientation": "any",
   "scope": "/app/",
   "short_name": "FDCP",
-  "start_url": "/daily_puzzle.html",
-  "theme_color": "#151515",
+  "start_url": "/daily_puzzles.html",
+  "theme_color": "#424242",
   "categories": [],
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "/images/screenshot-1.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/screenshot-2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/screenshot-3.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/screenshot-4.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/screenshot-5.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/screenshot-6.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/screenshot-7.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/screenshot-8.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    }
+  ],
   "shortcuts": []
 }
