@@ -9,7 +9,7 @@
   "short_name": "FDCP",
   "start_url": "/daily_puzzles.html",
   "theme_color": "#424242",
-  "categories": [],
+  "categories": ["chess", "puzzles"],
   "screenshots": [
     {
       "src": "/images/screenshot-1.png",
@@ -52,5 +52,26 @@
       "type": "image/png"
     }
   ],
-  "shortcuts": []
+  "shortcuts": [
+    {
+      "name": "Solve today's chess puzzle!",
+      "url": "daily_puzzle.html",
+      "description": "Today's Chess puzzle"
+    },
+    {
+      "name": "Solve this week's chess puzzle!",
+      "url": "weekly_puzzle.html",
+      "description": "This week's Chess puzzle"
+    },
+    {
+      "name": "Solve this month's chess puzzle!",
+      "url": "monthly_puzzle.html"
+      "description": "This month' chess puzzle"
+    },
+    {
+      "name": "See the archived puzzles!",
+      "url": "puzzle_achive.html",
+      "description": "The rest of the puzzles"
+    }
+  ]
 }
