@@ -198,6 +198,19 @@ Links:
   
   <iframe id="8918333" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=8918333"></iframe><script>window.addEventListener("message",e=>{e['data']&&"8918333"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
   
+  
+  <br>
+  
+  <br>
+  
+  <hr>
+  
+  <br>
+  
+  <br>
+  
+  <a href="https://eggofglory999.github.io">Go back home</a>
+  
   </footer>  
 
   </div>
