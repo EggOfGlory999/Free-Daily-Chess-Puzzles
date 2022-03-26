@@ -11,7 +11,3 @@
 ### Question 3: Which branch is going to be compared for this pull request?
 
     Example: EggOfGlory999-patch-2
-
-### Question 4: What is going to happen to the branch/fork after the pull request is merged?
-
-    Example: The branck/fork will be deleted
