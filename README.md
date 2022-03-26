@@ -6,6 +6,13 @@
   
   <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-0f200ded-9114-4658-94d2-822e62b8581b"></div>
+
+  <br>
+  
+  <br>
+  
+  <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-4952d659-4ad8-4807-aab6-635b0a368630"></div>
   
   <a href="https://www.buymeacoffee.com/EggOfGlory999" target="_blank"><img src="button_support-me.png" /></a>
   
